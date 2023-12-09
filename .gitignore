@@ -75,7 +75,8 @@ node_modules
 package-lock.json
 
 #expo
-.expo.expo-shared
+.expo
+.expo-shared
 
 # OS X
 .DS_Store
