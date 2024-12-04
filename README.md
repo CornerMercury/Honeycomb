@@ -4,8 +4,8 @@ A basic homework/school app using my school's API. Written in react native using
 
 ## Example Screenshots
 
-![Assignments](https://github.com/CornerMercury/Honeycomb/blob/main/docs/images/1Assignments.jpg)
-![Assignment](https://github.com/CornerMercury/Honeycomb/blob/main/docs/images/2Assignment1.jpg)
+<img src="https://github.com/CornerMercury/Honeycomb/blob/main/docs/images/1Assignments.jpg" alt="Assignments" width="300"/>
+<img src="https://github.com/CornerMercury/Honeycomb/blob/main/docs/images/2Assignment1.jpg" alt="Assignments" width="300"/>
 See more in docs/images
 
 ## Usage
